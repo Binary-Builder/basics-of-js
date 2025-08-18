@@ -4,4 +4,5 @@ let y = 3;
 console.log(x++);
 
 //this is very basic
-//Equality operators- (===)
+//Equality operators:
+//Strict Equality (===)
